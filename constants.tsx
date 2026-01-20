@@ -52,10 +52,6 @@ export const Logo = () => (
         src="assets\logo_transparent.png" 
         alt="Sai Immobilien GmbH Logo" 
         className="max-w-full max-h-full object-contain"
-        onError={(e) => {
-          // Fallback if image fails - simplistic representation of the logo style
-          (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=100&q=80";
-        }}
       />
     </div>
   </div>
