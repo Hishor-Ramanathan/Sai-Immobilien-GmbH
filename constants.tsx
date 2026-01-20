@@ -46,13 +46,11 @@ export const Icons = {
 };
 
 export const Logo = () => (
-  <div className="flex flex-col items-center">
-    <div className="relative w-full aspect-square flex items-center justify-center">
-       <img 
-        src="assets\logo_transparent.png" 
-        alt="Sai Immobilien GmbH Logo" 
-        className="max-w-full max-h-full object-contain"
-      />
-    </div>
+  <div className="flex flex-col items-center justify-center w-full h-full">
+    <img 
+      src="/logo_transparent.png" 
+      alt="Sai Immobilien GmbH Logo" 
+      className="w-full h-full object-contain"
+    />
   </div>
 );
