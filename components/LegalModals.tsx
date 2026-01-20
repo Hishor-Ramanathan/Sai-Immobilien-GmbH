@@ -31,7 +31,7 @@ const LegalModals: React.FC<LegalModalProps> = ({ isOpen, onClose, type }) => {
               </p>
               <p>
                 <strong>Vertretungsberechtigte Person:</strong><br />
-                Herr Kumar, Geschäftsleiter
+                Herr Terziqi, Geschäftsleiter
               </p>
               <p>
                 <strong>Haftungsausschluss:</strong><br />
