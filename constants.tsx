@@ -49,7 +49,7 @@ export const Logo = () => (
   <div className="flex flex-col items-center">
     <div className="relative w-full aspect-square flex items-center justify-center">
        <img 
-        src="https://raw.githubusercontent.com/KumarImmo/Assets/main/sai_logo.png" 
+        src="assets\logo_transparent.png" 
         alt="Sai Immobilien GmbH Logo" 
         className="max-w-full max-h-full object-contain"
         onError={(e) => {
