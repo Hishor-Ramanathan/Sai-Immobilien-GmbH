@@ -7,8 +7,8 @@ export const COMPANY_INFO: ContactInfo = {
   role: "Zeki  Terziqi", 
   phone: "078 720 20 20",
   email: "contact.sai.immobilien@gmail.com",
-  address: "Dorfrain 10",
-  city: "5702 Niederlenz"
+  address: "Belgistrasse 7",
+  city: "6340 Baar"
 };
 
 // SVG Icons

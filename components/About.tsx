@@ -41,7 +41,7 @@ const About: React.FC = () => {
               <div className="absolute -inset-4 bg-brand-light/10 rounded-2xl group-hover:bg-brand-light/20 transition-colors"></div>
               <div className="relative rounded-xl overflow-hidden shadow-2xl border border-white h-[500px]">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2703.189568282909!2d8.167825277150117!3d47.394553502931215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4790176867078345%3A0x643644f77c3a033b!2sDorfrain%2010%2C%205702%20Niederlenz!5e0!3m2!1sde!2sch!4v1716383000000!5m2!1sde!2sch" 
+                  src="https://maps.google.com/maps?q=Belgistrasse%207%2C%206340%20Baar&output=embed" 
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
